@@ -737,7 +737,7 @@ if __name__ == "__main__":
     inputfile = argv[1]
     outputpath = argv[2]
     cn_dict_path = "concepts_en_lemmas.p"
-    stanford_path = 'StanfordParser-3.9.2/stanford-parser-full-2018-10-17'
+    stanford_path = '/content/drive/MyDrive/stanford-corenlp-4.2.0-models-english'
     #java_path = '/usr/lib/jvm/java-8-openjdk-amd64/bin/java'
     embeddings_path = 'GoogleNews-vectors-negative300.bin'
     phrases_path = "phrases.txt"
